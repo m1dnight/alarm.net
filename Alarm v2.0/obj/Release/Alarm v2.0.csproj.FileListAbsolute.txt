@@ -1,0 +1,8 @@
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\bin\Release\Alarm v2.0.exe.config
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\bin\Release\Alarm v2.0.exe
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\bin\Release\Alarm v2.0.pdb
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\obj\Release\Alarm_v2._0.Main.resources
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\obj\Release\Alarm_v2._0.Properties.Resources.resources
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\obj\Release\Alarm v2.0.csproj.GenerateResource.Cache
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\obj\Release\Alarm v2.0.exe
+e:\userdata tower\tower documents\visual studio 2012\Projects\Alarm v2.0\Alarm v2.0\obj\Release\Alarm v2.0.pdb
